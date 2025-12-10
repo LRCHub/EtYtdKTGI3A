@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Raise your voice!",
+  "base_artist": "鈴木ヒナ(HIMEHINA)",
+  "createdAt": "2025-12-10T13:17:22.743598Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Raise Your Voice",
+      "artist": "Bad Religion",
+      "has_synced": true,
+      "path": "select/01_Raise_Your_Voice_Bad_Religion.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Raise Your Voice",
+      "artist": "Obey The Brave",
+      "has_synced": true,
+      "path": "select/02_Raise_Your_Voice_Obey_The_Brave.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Raise Your Voice",
+      "artist": "Bad Religion",
+      "has_synced": true,
+      "path": "select/03_Raise_Your_Voice_Bad_Religion.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Raise Your Voice",
+      "artist": "Crossfaith",
+      "has_synced": true,
+      "path": "select/04_Raise_Your_Voice_Crossfaith.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Raise Your Voice",
+      "artist": "Obey The Brave",
+      "has_synced": true,
+      "path": "select/05_Raise_Your_Voice_Obey_The_Brave.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Raise Your Voice!",
+      "artist": "Bad Religion feat. Campino",
+      "has_synced": false,
+      "path": "select/06_Raise_Your_Voice!_Bad_Religion_feat._Campino.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Raise Your Voice",
+      "artist": "Bad Religion feat. Campino",
+      "has_synced": false,
+      "path": "select/07_Raise_Your_Voice_Bad_Religion_feat._Campino.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Raise Your Voice",
+      "artist": "FX",
+      "has_synced": true,
+      "path": "select/08_Raise_Your_Voice_FX.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Raise Your Voice feat. Campino",
+      "artist": "Bad Religion",
+      "has_synced": false,
+      "path": "select/09_Raise_Your_Voice_feat._Campino_Bad_Religion.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Raise Your Voice Joyce",
+      "artist": "Fucked Up",
+      "has_synced": true,
+      "path": "select/10_Raise_Your_Voice_Joyce_Fucked_Up.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Raise Your Voice (with Campino)",
+      "artist": "Bad Religion",
+      "has_synced": true,
+      "path": "select/11_Raise_Your_Voice_(with_Campino)_Bad_Religion.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Raise your Voice",
+      "artist": "Bad Religion & Campino",
+      "has_synced": false,
+      "path": "select/12_Raise_your_Voice_Bad_Religion_&_Campino.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Collapsology (Raise Your Voice)",
+      "artist": "Black Mirrors & Alain Johannes",
+      "has_synced": true,
+      "path": "select/13_Collapsology_(Raise_Your_Voice)_Black_Mirrors_&_Alain_Johannes.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Raise Your Voice",
+      "artist": "Crossfaith",
+      "has_synced": true,
+      "path": "select/14_Raise_Your_Voice_Crossfaith.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Raise Your Voice in Praise",
+      "artist": "Port Sulphur Band",
+      "has_synced": true,
+      "path": "select/15_Raise_Your_Voice_in_Praise_Port_Sulphur_Band.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Raise Your Voice",
+      "artist": "Secret Garden",
+      "has_synced": false,
+      "path": "select/16_Raise_Your_Voice_Secret_Garden.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Raise your voice!",
+      "artist": "鈴木ヒナ(HIMEHINA)",
+      "has_synced": false,
+      "path": "select/pl_01_Raise_your_voice!_鈴木ヒナ(HIMEHINA).txt"
+    }
+  ]
+}
